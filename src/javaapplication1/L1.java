@@ -20,7 +20,7 @@ public class L1 {
         Laptop l2 = new Laptop ("1.5 GHz", 16);
         
         Mobile m1 = new Mobile (8, "android");
-        
+        Mobile m2 = new Mobile (4, "android");
         
     }
     
